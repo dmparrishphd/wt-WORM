@@ -1,2 +1,4 @@
-# wt-WORM
-A package dealing with weights, as in "weighted average"
+wt-WORM
+=======
+
+[README](https://github.com/dmparrishphd/wt-CORW/README).
